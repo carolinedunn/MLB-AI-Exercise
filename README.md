@@ -15,8 +15,6 @@ Each AI was evaluated on:
 - Generated visualizations
 - Python code execution on a Raspberry Pi 5
 
-Watch the full breakdown on YouTube: [YouTube Playlist Coming Soon]
-
 ---
 
 ## 📁 Files Included
