@@ -22,7 +22,8 @@ Watch the full breakdown on YouTube: [YouTube Playlist Coming Soon]
 ## 📁 Files Included
 
 ### 📊 MLB Data
-- `mlb_teams.xlsx` — Dataset used in all AI comparisons (source: OpenIntro)
+You can download the dataset here: [MLB Teams Dataset – OpenIntro](https://www.openintro.org/data/index.php?data=mlb_teams)
+
 
 ### 🧠 AI-Generated Code & Visuals
 
@@ -53,3 +54,35 @@ Install the required libraries using the following commands:
 sudo apt install python3-pandas -y
 sudo apt install python3-matplotlib
 sudo apt install python3-seaborn
+```
+---
+
+## ▶️ How to Run the Scripts
+
+Then run any of the `.py` scripts:
+
+```bash
+python3 stolen-bases-chatGPT.py
+```
+---
+
+## 📺 Related Video Tutorials
+
+- 🔧 [Basic Raspberry Pi Setup](https://youtu.be/tftyvWMs-1w)
+- 📝 [How to Install LibreOffice on Raspberry Pi](https://youtu.be/MgLIDX1BrKQ) - launches June 3, 2025
+- 📝 [Can a Raspberry Pi Run AI Baseball Analytics? | ChatGPT vs. Perplexity Showdown](https://youtu.be/ecZUrqnJ9yA)) - launches June 10, 2025
+- 📝 [How to Run AI Baseball Analytics on a Raspberry Pi | Gemini vs. Claude Showdown](https://youtu.be/bGRjbSUPblE) - launches June 17, 2025
+
+More AI breakdown videos coming soon on [Caroline’s YouTube Channel](https://www.youtube.com/caroline)
+
+---
+
+## 🙋‍♀️ About the Creator
+
+Created by [Caroline Dunn](https://github.com/carolinedunn) — blending data science, AI tools, and Raspberry Pi into real-world tech experiments.
+
+---
+
+## 📬 Contributions & Questions
+
+If you have questions, ideas for future AI experiments, or want to contribute, feel free to open an issue or leave a comment on the YouTube video.
