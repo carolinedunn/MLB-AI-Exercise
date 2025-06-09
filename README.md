@@ -67,9 +67,9 @@ python3 stolen-bases-chatGPT.py
 ## 📺 Related Video Tutorials
 
 - 🔧 [Basic Raspberry Pi Setup](https://youtu.be/tftyvWMs-1w)
-- 📝 [How to Install LibreOffice on Raspberry Pi](https://youtu.be/MgLIDX1BrKQ) - launches June 3, 2025
-- 📝 [Can a Raspberry Pi Run AI Baseball Analytics? | ChatGPT vs. Perplexity Showdown](https://youtu.be/ecZUrqnJ9yA)) - launches June 10, 2025
-- 📝 [How to Run AI Baseball Analytics on a Raspberry Pi | Gemini vs. Claude Showdown](https://youtu.be/bGRjbSUPblE) - launches June 17, 2025
+- 📝 [How to Install LibreOffice on Raspberry Pi](https://youtu.be/MgLIDX1BrKQ)
+- 📝 [Can a Raspberry Pi Run AI Baseball Analytics? | ChatGPT vs. Perplexity Showdown](https://youtu.be/ecZUrqnJ9yA))
+- 📝 [How to Run AI Baseball Analytics on a Raspberry Pi | Gemini vs. Claude Showdown](https://youtu.be/bGRjbSUPblE) - launches June 10, 2025
 
 More AI breakdown videos coming soon on [Caroline’s YouTube Channel](https://www.youtube.com/caroline)
 
