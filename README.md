@@ -6,8 +6,8 @@ This project explores how different AI tools analyze Major League Baseball trend
 
 We asked each AI model to analyze long-term MLB data and generate Python code to visualize:
 
-- **Stolen Base Trends** (by team and decade)
-- **Pitcher Strikeout Trends** (NL vs. AL, per year and decade)
+- [**Stolen Base Trends**](https://youtu.be/ecZUrqnJ9yA) (by team and decade)
+- [**Pitcher Strikeout Trends**](https://youtu.be/bGRjbSUPblE) (NL vs. AL, per year and decade)
 
 Each AI was evaluated on:
 - Ability to understand the dataset
@@ -61,6 +61,7 @@ Then run any of the `.py` scripts:
 
 ```bash
 python3 stolen-bases-chatGPT.py
+python3 stolen-bases-perplexity.py.py
 ```
 ---
 
@@ -68,8 +69,8 @@ python3 stolen-bases-chatGPT.py
 
 - 🔧 [Basic Raspberry Pi Setup](https://youtu.be/tftyvWMs-1w)
 - 📝 [How to Install LibreOffice on Raspberry Pi](https://youtu.be/MgLIDX1BrKQ)
-- 📝 [Can a Raspberry Pi Run AI Baseball Analytics? | ChatGPT vs. Perplexity Showdown](https://youtu.be/ecZUrqnJ9yA))
-- 📝 [How to Run AI Baseball Analytics on a Raspberry Pi | Gemini vs. Claude Showdown](https://youtu.be/bGRjbSUPblE) - launches June 10, 2025
+- 📝 [Can a Raspberry Pi Run AI Baseball Analytics? | ChatGPT vs. Perplexity Showdown](https://youtu.be/ecZUrqnJ9yA)
+- 📝 [How to Run AI Baseball Analytics on a Raspberry Pi | Gemini vs. Claude Showdown](https://youtu.be/bGRjbSUPblE)
 
 More AI breakdown videos coming soon on [Caroline’s YouTube Channel](https://www.youtube.com/caroline)
 
