@@ -61,7 +61,10 @@ Then run any of the `.py` scripts:
 
 ```bash
 python3 stolen-bases-chatGPT.py
-python3 stolen-bases-perplexity.py.py
+python3 stolen-bases-perplexity.py
+python3 strikeouts-claude.py
+python3 strikeouts-gemini.py
+
 ```
 ---
 
